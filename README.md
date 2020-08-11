@@ -28,39 +28,5 @@
 
   - ![Preview](/preview.png)
   
-  
-  ## Contributing:
-   
- Guidelines for contribution (if any): 
-
-   Open Source Project, please feel free to utilize and modify  
-  
-  
-  ## Tests:
-  Command for running tests for this app:
-  
- n/a
-  
-  
-  ## Questions:
-  [epachols's Github](https://github.com/epachols/)
-  
-  
   ## Credits:
-   Collaborating Credits:
-  
- none
-  
-  ## License information:
-  
- 
-  CC0 ![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png) [License Document](https://creativecommons.org/publicdomain/zero/1.0/)
-  
-  [https://choosealicense.com/](https://choosealicense.com/)
-  
-  ---
-  
-  |Thank you!         |
-  --------------------
-  |🏆 &#x1F981; epachols &#x1F981; 🏆|
-  # deej17-homework18
+  Deepali Jain
