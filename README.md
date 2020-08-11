@@ -28,5 +28,6 @@
 
   - ![Preview](/preview.png)
   
-  ## Credits:
-  Deepali Jain
+  
+  ## Created by:
+ Deepali Jain 
